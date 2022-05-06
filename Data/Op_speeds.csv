@@ -1,0 +1,10 @@
+Flight condition;Atmospheric conditions;RPM
+Take-off (early runway);ISA;10
+Take-off (mid runday);ISA;10
+Take-off (end of runway);ISA;10
+Take-off (end of runway);ISA -45 deg;10
+Mid-climb;ISA;10
+Cruise;ISA;10
+Approach;ISA;10
+Windmill;ISA;10
+Cruise (15% Overspeed);ISA;10

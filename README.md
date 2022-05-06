@@ -1,2 +1,2 @@
 # Campbell
- Code to plot Cambelll diagram
+ Code to plot Campbell diagram
